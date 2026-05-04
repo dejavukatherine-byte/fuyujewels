@@ -1,5 +1,4 @@
 import { Link } from 'react-router';
-import storyImage from 'figma:asset/about-us-img.jfif';
 
 export default function AboutUs() {
   return (
