@@ -1,17 +1,17 @@
 import { Link } from 'react-router';
-//import silverRingImage from 'figma:asset/f5e4b07b6669741a2be6bdc3426ad2b6.jpg';
-//import necklaceImage from 'figma:asset/8d736274f039993717a5886b45062b71.jpg';
-//import processImage from 'figma:asset/image-1.png';
-//import processImage2 from 'figma:asset/微信图片_20260504162238_431_2-2.png';
-//import banner1 from 'figma:asset/微信图片_20260402132534_367_740-1.png';
-//import banner2 from 'figma:asset/微信图片_20260402132516_362_740-1.png';
-//import banner3 from 'figma:asset/微信图片_20260402132605_385_740.png';
-//import banner4 from 'figma:asset/微信图片_20260402132729_417_740-1.png';
-//import banner5 from 'figma:asset/微信图片_20260402132801_442_740-1.png';
-//import banner6 from 'figma:asset/微信图片_20260402132840_473_740-1.png';
-//import banner7 from 'figma:asset/微信图片_20260402132916_513_740-1.png';
-//import banner8 from 'figma:asset/微信图片_20260402133011_580_740.png';
-//import banner9 from 'figma:asset/微信图片_20260402132954_558_740-1.png';
+import silverRingImage from 'figma:asset/f5e4b07b6669741a2be6bdc3426ad2b6.jpg';
+import necklaceImage from 'figma:asset/8d736274f039993717a5886b45062b71.jpg';
+import processImage from 'figma:asset/image-1.png';
+import processImage2 from 'figma:asset/微信图片_20260504162238_431_2-2.png';
+import banner1 from 'figma:asset/微信图片_20260402132534_367_740-1.png';
+import banner2 from 'figma:asset/微信图片_20260402132516_362_740-1.png';
+import banner3 from 'figma:asset/微信图片_20260402132605_385_740.png';
+import banner4 from 'figma:asset/微信图片_20260402132729_417_740-1.png';
+import banner5 from 'figma:asset/微信图片_20260402132801_442_740-1.png';
+import banner6 from 'figma:asset/微信图片_20260402132840_473_740-1.png';
+import banner7 from 'figma:asset/微信图片_20260402132916_513_740-1.png';
+import banner8 from 'figma:asset/微信图片_20260402133011_580_740.png';
+import banner9 from 'figma:asset/微信图片_20260402132954_558_740-1.png';
 
 export default function HomePage() {
   return (
