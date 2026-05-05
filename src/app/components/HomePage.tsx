@@ -7,31 +7,31 @@ export default function HomePage() {
         {/* Product Grid Background */}
         <div className="absolute inset-0 grid grid-cols-3 grid-rows-3">
           <div className="w-full h-full overflow-hidden">
-            <img src="/banner2.jpg.png" alt="" className="w-full h-full object-cover" loading="eager" decoding="async" />
+            <img src="/banner2.jpg" alt="" className="w-full h-full object-cover" loading="eager" decoding="async" />
           </div>
           <div className="w-full h-full overflow-hidden">
-            <img src="/banner1.jpg.png" alt="" className="w-full h-full object-cover" loading="eager" decoding="async" />
+            <img src="/banner1.jpg" alt="" className="w-full h-full object-cover" loading="eager" decoding="async" />
           </div>
           <div className="w-full h-full overflow-hidden">
-            <img src="/banner3.jpg.png" alt="" className="w-full h-full object-cover" loading="eager" decoding="async" />
+            <img src="/banner3.jpg" alt="" className="w-full h-full object-cover" loading="eager" decoding="async" />
           </div>
           <div className="w-full h-full overflow-hidden">
-            <img src="/banner4.jpg.png"  alt="" className="w-full h-full object-cover" loading="lazy" decoding="async" />
+            <img src="/banner4.jpg"  alt="" className="w-full h-full object-cover" loading="lazy" decoding="async" />
           </div>
           <div className="w-full h-full overflow-hidden">
-            <img src="/banner5.jpg.png"  alt="" className="w-full h-full object-cover" loading="lazy" decoding="async" />
+            <img src="/banner5.jpg"  alt="" className="w-full h-full object-cover" loading="lazy" decoding="async" />
           </div>
           <div className="w-full h-full overflow-hidden">
-            <img src="/banner6.jpg.png"  alt="" className="w-full h-full object-cover" loading="lazy" decoding="async" />
+            <img src="/banner6.jpg"  alt="" className="w-full h-full object-cover" loading="lazy" decoding="async" />
           </div>
           <div className="w-full h-full overflow-hidden">
-            <img src="/banner7.jpg.png"  alt="" className="w-full h-full object-cover" loading="lazy" decoding="async" />
+            <img src="/banner7.jpg"  alt="" className="w-full h-full object-cover" loading="lazy" decoding="async" />
           </div>
           <div className="w-full h-full overflow-hidden">
-            <img src="/banner8.jpg.png"  alt="" className="w-full h-full object-cover" loading="lazy" decoding="async" />
+            <img src="/banner8.jpg"  alt="" className="w-full h-full object-cover" loading="lazy" decoding="async" />
           </div>
           <div className="w-full h-full overflow-hidden">
-            <img src="/banner9.jpg.png"  alt="" className="w-full h-full object-cover" loading="lazy" decoding="async" />
+            <img src="/banner9.jpg"  alt="" className="w-full h-full object-cover" loading="lazy" decoding="async" />
           </div>
         </div>
         {/* Overlay */}
