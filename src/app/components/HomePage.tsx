@@ -97,7 +97,7 @@ export default function HomePage() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 sm:gap-8">
             <div className="relative h-80 sm:h-96 rounded-lg overflow-hidden group cursor-pointer">
               <img
-                src={silverRingImage}
+                src="[https://via.placeholder.com/800x800](https://via.placeholder.com/800x800)"
                 alt="925 Sterling Silver Jewelry"
                 className="w-full h-full object-cover"
                 loading="lazy"
