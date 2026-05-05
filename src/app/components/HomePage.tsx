@@ -1,5 +1,5 @@
 import { Link } from 'react-router';
-import silverRingImage from 'figma:asset/f5e4b07b6669741a2be6bdc3426ad2b6.jpg';
+//import silverRingImage from 'figma:asset/f5e4b07b6669741a2be6bdc3426ad2b6.jpg';
 import necklaceImage from 'figma:asset/8d736274f039993717a5886b45062b71.jpg';
 import processImage from 'figma:asset/image-1.png';
 import processImage2 from 'figma:asset/微信图片_20260504162238_431_2-2.png';
