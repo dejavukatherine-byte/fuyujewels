@@ -1,5 +1,5 @@
 import { Link } from 'react-router';
-import storyImage from 'figma:asset/下载_(5).jfif';
+//import storyImage from 'figma:asset/下载_(5).jfif';
 
 export default function AboutUs() {
   return (
